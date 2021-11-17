@@ -1,0 +1,1 @@
+# Vue.JS basic project to understand binding attributes with v-bind
